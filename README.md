@@ -30,4 +30,27 @@ but when it comes to the implicitly known distributed ones, the handling gets ma
 
 No,
 - Non data-centric systems e.g. calculator, are almost real monolithics
-- Single process data-centeric systems e.g. Access DB, are real monolithics since the interface, logic, and data store are running as a single process 
+- Single process data-centeric systems e.g. Access DB, are real monolithics since the interface, logic, and data store are running as a single process
+
+## What to distribute?
+
+### Chat GPT answer
+
+In distributed systems, various components and functionalities are distributed across multiple machines or nodes to achieve scalability, reliability, and performance. Here's an overview of what can be distributed in such systems:
+- Data
+- Computation
+- Services
+- Storage
+- Messaging
+- Security
+- Networking
+- Configuration
+
+### Enriched answer
+
+In addition to the above mentioned distibution aspects, the below also can be distributed: 
+
+- Code base
+- Build
+- Deployment
+- Hosting
