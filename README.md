@@ -19,8 +19,10 @@ Given the the theoritical answer, all of the systems that we are working on are 
 - Micro-Frontends
 
 **_Conventionally_**, we refer to the 1st two types as monotlithic systems, while they are actually distributed!
+
 So, we apply some of the distributed system related aspects to those claimed monolithic systems e.g. scalability where we sometimes scale out the endpoints, or scale up the DB process.
-but when it comes to the implicitly known distibuted ones, the handling gets magnified a lot due to the large number of scattared processes and how they are distributed.
+
+but when it comes to the implicitly known distributed ones, the handling gets magnified a lot due to the large number of scattared processes and how they are distributed, which requires well known  patterns to handle that.
 
 ## So, does it mean that all the software systms are distributed?
 
