@@ -112,3 +112,44 @@ Working on distributed systems requires a solid understanding of various princip
 - **Centeralized monitoring**
 - Practical Experience
 - Communities and Conferences
+
+### Enriched answer
+
+Beside the above mentioned/highlighted aspects, the below are aspects that will likely to require addressing when working on a distributed systems: 
+
+- Dual/Multiple writes
+  - At least once transmission/Transactional Outbox
+- Transaction
+  - Orchestration
+  - Coreography  
+- Events
+  - Event Driven
+  - Event sourcing
+  - Event data store
+  - Big data
+  - Replay
+  - Memory image
+  - Decoupling consumption from handling
+    - Inbox pattern
+  - Duplicate transmission
+    - Defensive consumption
+  - Regex-baed subsciption
+- Containerization
+- container orchestration
+  - Singleton pattern 
+- DevOps
+  - Infra structure as Code **(IaC)**
+  - CI/CD
+- Reporting
+  - Data Lake
+  - Data warehouse
+  - Data lakehouse
+- Observability
+  - Alerting
+- Zero downtime breaking changes/backword comptibility
+- Trunk based development
+- Feature flags
+- Versioning
+  - API
+  - Class/Object/Entity/Schema
+  - Data   
