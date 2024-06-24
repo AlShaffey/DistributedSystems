@@ -54,3 +54,27 @@ In addition to the above mentioned distibution aspects, the below also can be di
 - Build
 - Deployment
 - Hosting
+
+## What are the aspects that when I find in a software solution, I describe that solution as "Distributed System"?
+
+### Chat GPT answer
+
+Identifying distributed systems from the code involves looking for certain patterns, architectures, and technologies that are commonly used in distributed computing. Here are some indicators that can help you recognize distributed systems:
+
+- Network Communication
+- Async programming
+- Data Distribution
+- Message Passing and Event Streaming
+- Consistency and Synchronization Mechanisms
+
+### Realistic answer
+
+Actually it's not an easy question to answer, since not all the systems designed the same way, using the same design aspects, and perfectly follow the selected design aspect guidlines, however, there are things that can be inspect to give insights about if we are working on a type of the distributed systems, check below:
+
+- Multiple code bases (repos)
+- Infra layer(s)/service(s)
+- Integration Platform as a Service **IPaaS**
+- Multiple build pipelines
+- Multiple release piplines
+- Containers
+- Container orchestrators
