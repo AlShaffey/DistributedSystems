@@ -78,3 +78,37 @@ Actually it's not an easy question to answer, since not all the systems designed
 - Multiple release piplines
 - Containers
 - Container orchestrators
+
+## If I have been developing monolithic apps for years and I am really good at it, can I start developing distributed systems, or I have to learn new things first?
+
+### Chat GPT answer
+
+Working on distributed systems requires a solid understanding of various principles, technologies, and tools. Here is a comprehensive guide on what to learn:
+
+- Fundamentals of Distributed Systems
+  - **Concurrency and Parallelism**
+  - Networking Basics
+  - Distributed Algorithms
+  - **CAP Theorem**
+  - **Data Consistency Models**
+  - **Fault Tolerance and Reliability**
+  - **Scalability**
+- Distributed Computing Frameworks and Tools
+  - Relational Databases
+  - NoSQL Databases
+  - Distributed File Systems
+- Data Processing
+  - Batch Processing
+  - **Stream Processing**
+- Service Architecture
+  - Service mesh
+  - Service Discovery
+  - **API Management**
+- Message Queues and Event Streaming
+  - **Message Brokers**
+  - **Event Streaming**
+- **Cloud Platforms**
+- **Centeralized logging**
+- **Centeralized monitoring**
+- Practical Experience
+- Communities and Conferences
