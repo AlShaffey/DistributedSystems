@@ -117,6 +117,7 @@ Working on distributed systems requires a solid understanding of various princip
 
 Beside the above mentioned/highlighted aspects, the below are aspects that will likely to require addressing when working on a distributed systems: 
 
+- Paradigm shift
 - Dual/Multiple writes
   - At least once transmission/Transactional Outbox
 - Transaction
