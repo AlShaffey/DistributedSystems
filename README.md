@@ -184,11 +184,17 @@ and regarding the question we can refere to the [X/Twitter](https://github.com/d
 
 - Scalability
 - Availability
+  - Redundancy
+  - Failover 
 - Reliability
+  - Fault Tolerance 
 - Performance
 - Security
 - Manageability
+  - Observability
+  - Automation
 - Interoperability
 - Flexibility
+  - Modularity
 - Consistency
 - Usability
