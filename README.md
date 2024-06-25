@@ -10,7 +10,7 @@ Distributed systems are a collection of independent computers that appear to the
 
 ### Realistic answer
 
-Given that theoritical answer, all of the systems that we are working on are distibuted, specially considering the 1st two distributed system types below:
+Given that theoritical answer, almost all of the systems that we work on are distibuted, specially considering the 1st two distributed system types below:
 - _Client Server_
 - _N-Tier_
 - Peer-To-Peer **(P2P)**
