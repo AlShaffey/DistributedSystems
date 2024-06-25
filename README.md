@@ -136,6 +136,7 @@ Beside the above mentioned/highlighted aspects, the below are aspects that will 
     - Defensive consumption
   - Naming
   - Regex-baed subsciption
+  - DLQ/handling
 - Containerization
 - container orchestration
   - Singleton pattern 
