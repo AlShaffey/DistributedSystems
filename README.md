@@ -158,3 +158,21 @@ Beside the above mentioned/highlighted aspects, the below are aspects that will 
 - Correlation
   - ID
   - Transaction
+
+## Would you please give an example of real-world distributed systems, and explain the architecture and technologies behind them?
+
+### Chat GPT answer
+
+Examples of Distributed Systems:
+
+- Google search
+- Amazon.com
+- Netflix
+- Apache Kafka
+- Blockchain
+
+### Enriched answer
+
+I highly recommend checking the [system-design-primer](https://github.com/donnemartin/system-design-primer) GIT hub repo, it has a lot about large scale system architecture and design.
+
+and regarding the question we can refere to the [X/Twitter](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md) sample from that repo.
