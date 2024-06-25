@@ -133,6 +133,7 @@ Beside the above mentioned/highlighted aspects, the below are aspects that will 
     - Inbox pattern
   - Duplicate transmission
     - Defensive consumption
+  - Naming
   - Regex-baed subsciption
 - Containerization
 - container orchestration
@@ -152,4 +153,7 @@ Beside the above mentioned/highlighted aspects, the below are aspects that will 
 - Versioning
   - API
   - Class/Object/Entity/Schema
-  - Data   
+  - Data
+- Correlation
+  - ID
+  - Transaction
