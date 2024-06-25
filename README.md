@@ -176,3 +176,18 @@ Examples of Distributed Systems:
 I highly recommend checking the [system-design-primer](https://github.com/donnemartin/system-design-primer) GIT hub repo, it has a lot about large scale system architecture and design.
 
 and regarding the question we can refere to the [X/Twitter](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md) sample from that repo.
+
+### highlighting what will be different if the same application wasn't distributed system
+
+#### Will check it agains that below quality attributes:
+
+- Scalability
+- Availability
+- Reliability
+- Performance
+- Security
+- Manageability
+- Interoperability
+- Flexibility
+- Consistency
+- Usability
