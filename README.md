@@ -14,7 +14,7 @@ Given that theoritical answer, almost all of the systems that we work on are dis
 - _Client Server_ <img src="./structurizr-93320-ClientServer.svg">
 - _N-Tier_ <img src="./structurizr-93320-N-Tier.svg">
 - Peer-To-Peer **(P2P)** <img src="./structurizr-93320-P2P.svg">
-- Service-Oriented Architecture **(SOA)**
+- Service-Oriented Architecture **(SOA)** <img src="./structurizr-93320-SOA.svg">
 - Microservices
 - Micro-Frontends
 
