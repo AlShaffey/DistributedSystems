@@ -16,7 +16,7 @@ Given that theoritical answer, almost all of the systems that we work on are dis
 - Peer-To-Peer **(P2P)** <img src="./structurizr-93320-P2P.svg">
 - Service-Oriented Architecture **(SOA)** <img src="./structurizr-93320-SOA.svg">
 - Microservices <img src="./structurizr-93320-Microservices.svg">
-- Micro-Frontends
+- Micro-Frontends <img src="./structurizr-93320-MicroFrontends.svg">
 
 **_Conventionally_**, we refer to the 1st two types as monotlithic systems, while they are actually distributed!
 
