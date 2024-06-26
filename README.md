@@ -13,7 +13,7 @@ Distributed systems are a collection of independent computers that appear to the
 Given that theoritical answer, almost all of the systems that we work on are distibuted, specially considering the 1st two distributed system types below:
 - _Client Server_ <img src="./structurizr-93320-ClientServer.svg">
 - _N-Tier_ <img src="./structurizr-93320-N-Tier.svg">
-- Peer-To-Peer **(P2P)**
+- Peer-To-Peer **(P2P)** <img src="./structurizr-93320-P2P.svg">
 - Service-Oriented Architecture **(SOA)**
 - Microservices
 - Micro-Frontends
