@@ -15,7 +15,7 @@ Given that theoritical answer, almost all of the systems that we work on are dis
 - _N-Tier_ <img src="./structurizr-93320-N-Tier.svg">
 - Peer-To-Peer **(P2P)** <img src="./structurizr-93320-P2P.svg">
 - Service-Oriented Architecture **(SOA)** <img src="./structurizr-93320-SOA.svg">
-- Microservices
+- Microservices <img src="./structurizr-93320-Microservices.svg">
 - Micro-Frontends
 
 **_Conventionally_**, we refer to the 1st two types as monotlithic systems, while they are actually distributed!
